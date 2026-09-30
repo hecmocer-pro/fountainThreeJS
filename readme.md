@@ -1,3 +1,7 @@
+# fountainThreeJS
+
+A Three.js demo of a 3D fountain with flowing water.
+
 ![Image documentation 1](https://raw.githubusercontent.com/hecmocer-pro/fountainThreeJS/master/documentation/1.png)
 
 ![Image documentation 2](https://raw.githubusercontent.com/hecmocer-pro/fountainThreeJS/master/documentation/2.png)
